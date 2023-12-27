@@ -1,2 +1,3 @@
 # Beekind
- This is a website with a goal to raise awareness about bees in our surrounding area
+ Legacy and not up to date Version of :
+```https://github.com/Beekind-ChangeTheWorld/Beekind-ChangeTheWorld.github.io```
